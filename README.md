@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Pratap Singh</h1>
-<h3 align="center">I am a Computer Science graduate with a strong interest in full stack web development. I'm currently building my skills in the MERN stack (MongoDB, Express.js, React.js, Node.js) and enjoy turning ideas into functional web applications. I have hands-on experience using JavaScript and the DOM to create interactive projects, including a Healthy Fitness Tracker that helps users manage their daily health goals. I'm passionate about writing clean, responsive code and continuously learning to grow as a full stack developer. Open to internship or junior developer opportunities where I can contribute and keep learning.</h3>
+<h3 align="center">I am a Computer Science graduate with a strong interest in full stack web development. I'm currently building my skills in the MERN stack (MongoDB, Express.js, React.js, Node.js) and enjoy turning ideas into functional web applications.</h>
 
 - 🔭 I’m currently working on **my-portfolio**
 
