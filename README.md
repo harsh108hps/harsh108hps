@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Pratap Singh</h1>
 <h3 align="center">I am a Computer Science graduate with a strong interest in full stack web development. I'm currently building my skills in the MERN stack (MongoDB, Express.js, React.js, Node.js) and enjoy turning ideas into functional web applications.</h>
 
-- 🔭 I’m currently working on **my-portfolio**
+- 🔭 I’m currently working on **MY-PORTFOLIO**
 
 - 🌱 I’m currently learning **System Design and Backend**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-harsh-zeta.vercel.app/projects](https://portfolio-harsh-zeta.vercel.app/projects)
 
-- 💬 Ask me about **mern**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **harshpratapsingh39900@gmail.com**
 
