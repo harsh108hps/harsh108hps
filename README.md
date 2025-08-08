@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design and Backend**
 
-- 👯 I’m looking to collaborate on **linkedin and mern stack**
+- 👯 I’m looking to collaborate on **Linkedin and MERN stack**
 
 - 🤝 I’m looking for help with **Project**
 
