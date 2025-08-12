@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Project**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-harsh-zeta.vercel.app/projects](https://portfolio-harsh-zeta.vercel.app/projects)
+- 👨‍💻 All of my projects are available at (https://portfolio-harsh-yrmb.vercel.app/)]([https://portfolio-harsh-zeta.vercel.app/projects]
 
 - 💬 Ask me about **MERN**
 
